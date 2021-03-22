@@ -28,6 +28,8 @@ import static com.example.instagramclone.Post.KEY_CREATED_KEY;
 
 /**
  * A simple {@link Fragment} subclass.
+ * *
+ * *
  */
 public class PostsFragment extends Fragment {
 
